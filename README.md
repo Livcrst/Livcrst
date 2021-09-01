@@ -12,6 +12,11 @@ Sou discente do Curso de Bacharelado em Ciência da Computação.:heart_eyes: :s
 - 📫 Onde me encontrar: 
   - LinkedIn https://www.linkedin.com/in/l%C3%ADvia-nascimento-92262b1a3/ 
   - E-mail: livia.nascimento@arapiraca.ufal.br
+  <div style="display: inline-block"><br>
+  <img align="center" alt="Fran-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <div style="display: inline-block"><br>
   <a href="https://github.com/franciane-lark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Livcrst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
