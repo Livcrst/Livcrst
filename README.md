@@ -12,3 +12,7 @@ Sou discente do Curso de Bacharelado em Ciência da Computação.:heart_eyes: :s
 - 📫 Onde me encontrar: 
   - LinkedIn https://www.linkedin.com/in/l%C3%ADvia-nascimento-92262b1a3/ 
   - E-mail: livia.nascimento@arapiraca.ufal.br
+
+
+
+  ![Snake animation](https://github.com/Livcrst/Livcrst/blob/output/github-contribution-grid-snake.svg)
