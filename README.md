@@ -1,16 +1,14 @@
-### Hi there 👋
+# Lívia Nascimento
 
-<!--
-**Livcrst/Livcrst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá PessoALL 👋
 
-Here are some ideas to get you started:
+ 
+Sou apaixonada por solucionar problemas e desenvolver soluções usando algoritmos e matemática.
+Sou discente do Curso de Bacharelado em Ciência da Computação.:heart_eyes: :sparkling_heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭Sou pesquisadora em Iniciação Cientifica em Análise e Modelagem de Redes Complexas. 
+- 🌱 Estou me aventurando no universo da programação Web.
+- 💬 Sobre mim: Curto muitooo tecnologia, games CS:GO, Valorant, Mangás, Livros e Animes.
+- 📫 Onde me encontrar: 
+  - LinkedIn https://www.linkedin.com/in/l%C3%ADvia-nascimento-92262b1a3/ 
+  - E-mail: livia.nascimento@arapiraca.ufal.br
