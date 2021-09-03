@@ -6,7 +6,7 @@
 Sou apaixonada por solucionar problemas e desenvolver soluções usando algoritmos e matemática.
 Sou discente do Curso de Bacharelado em Ciência da Computação.:heart_eyes: :sparkling_heart:
 
-- 🔭Sou pesquisadora em Iniciação Cientifica em Análise e Modelagem de Redes Complexas. 
+<!-- - 🔭Sou pesquisadora em Iniciação Cientifica em Análise e Modelagem de Redes Complexas.  -->
 - 🌱 Estou me aventurando no universo da programação Web.
 - 🖥️ Coletivo Codivas. 
 - 💬 Sobre mim: Curto muitooo tecnologia, games CS:GO, Valorant, Mangás, Livros e Animes.
