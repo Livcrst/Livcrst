@@ -23,4 +23,4 @@ Sou discente do Curso de Bacharelado em Ciência da Computação.:heart_eyes: :s
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Livcrst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livcrst&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
-<!-- ![Snake animation](https://github.com/Livcrst/Livcrst/blob/output/github-contribution-grid-snake.svg)  -->
+    ![Snake animation](https://github.com/Livcrst/Livcrst/blob/output/github-contribution-grid-snake.svg)  
