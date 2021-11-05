@@ -1,6 +1,6 @@
 # Lívia Nascimento
 
-## Olá PessoALL 👋
+## Olá PessoALL
 
  
 Sou apaixonada por solucionar problemas e desenvolver soluções usando algoritmos e matemática.
