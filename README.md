@@ -4,7 +4,7 @@
 
  
 Sou apaixonada por solucionar problemas e desenvolver soluções usando algoritmos e matemática.
-Sou discente do Curso de Bacharelado em Ciência da Computação. :sparkling_heart:
+Sou Bacharela em Ciência da Computação e Mestranda no PPGC da UFRGS :sparkling_heart:
 
 - 🌱 Estou me aventurando no universo da programação Web.
 - 🖥️ Coletivo Codivas. 
