@@ -15,7 +15,7 @@ Sou bacharela em Ciência da Computação e mestranda no PPGC da UFRGS :sparklin
 
 _____________________________________________________________________________________________________________________________
 
-##Hello Everyone :)  
+## Hello Everyone :)  
 
 I'm passionate about solving problems and developing algorithms using math.
 
